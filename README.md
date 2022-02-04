@@ -207,7 +207,7 @@ Adds airplanes, and helicopters to the world. These create pollution when used.<
 *Adds quality modifiers to basic tools, and weapons.*<br/>
 *[Video 1](https://www.youtube.com/watch?v=b8BzLCOtuLk)*
 
-## Agricultre
+## Agriculture
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)<br/>
 *Expands the farming, crop, and bee systems.*<br/>
 *[Wiki](https://harvestcraftmod.fandom.com/wiki/HarvestCraft_Wiki) | [Video 1](https://www.youtube.com/watch?v=P4GOtSAK3xI)*
