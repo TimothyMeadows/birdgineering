@@ -26,6 +26,23 @@ Birdgineering is a steam punk, H.P lovecraft in space styled mod pack put togeth
     - Click 'Or import a previously created profile' at the top of the custom profile window.
     - Select the Birdgineering profile that you downloaded before (.zip file).
 
+# Tips
+
+These are tips, and tricks for dealing various features and oddities in the mod pack.
+
+## Starting Tips
+
+*The game modifies the survival rules adding thirst, temp, and most shocking at first is the realistic damage effects taken when you don't have armor yet*
+
+- Craft a shield. There are MANY shields in the game, the wooden, and stone shields are very easy to craft and provide great protection until you can get armor.
+- Craft leather armor. Leather is plentiful in the game from various sources.
+- Craft a canteen, or a bucket early so you can drink water. Filters can be used to purify water in a canteen, and water in a bucket can be boiled in a furnace. This mostly an early game annoyance as later you can brew juice, soda, beer, and tea which are all considered purified by default.
+- Find a wolf / dog and tame one. You can put armor on them for helping in fights, you can also put chests on there armor for storage.
+- If you don't like doggos (you monster!) you can also tame a horse, and attach a cart for portable storage.
+- Natural regen does not work! Bandages, and Plaster can be created to heal wounds. Sleeping can slowly heal wounds. This is again, more of an annoyance early game and can be mostly offset with the various healing sources in the game.
+
+## Misc Tips
+
 # Mods
 
 ## World
