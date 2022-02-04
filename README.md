@@ -19,7 +19,7 @@ Birdgineering is a steam punk, H.P lovecraft in space styled mod pack put togeth
 
   - [Download](https://download.curseforge.com/), and Install CurseForge, or the launcher of your choice that supports CurseForge profiles.
 
-  - [Download](https://birdgineering.com/download/birdgineering-1.12.2.zip) the Birgineering CurseForge profile here.
+  - [Download](https://birdgineering.com/download/birdgineering-1.12.2.zip) the Birgineering CurseForge profile.
 
   - Import the Birdgineering profile into CurseForge or the launcher of your choice.<br/>*Further directions will be only for the CurseForge client.*
     - Click 'Create Custom Profile' in the upper right hand corner of the client.
