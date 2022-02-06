@@ -50,7 +50,7 @@ These are tips, and tricks for dealing various features and oddities in the mod 
 *This mod adds pollution to all dimensions in the game from various natural emittion sources. This includes most power generation sources and mods which 'burn' fuels for production, or transportation.*<br/>
 *[Video 1](https://www.youtube.com/watch?v=j3qN55YguOs) | [Video 2](https://www.youtube.com/watch?v=Xw6C12N_SUE)*
   - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)<br/>
-  *This mod is an add-on that provides chimneys, and filters for controlling pollution generated in doors. This mods 'pumps' have been disabled to prevent pollution from being exploited.*<br/>
+  *This mod is an add-on that provides chimneys, and filters for controlling pollution generated in doors.*<br/>
   *[Video 1](https://www.youtube.com/watch?v=rSRA-XYvVfg)*
 
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)<br/>
